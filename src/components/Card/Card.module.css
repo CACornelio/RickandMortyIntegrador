@@ -1,0 +1,25 @@
+.container{
+    background-color: #2c5d63;
+    width: fit-content;
+    padding: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px darkgray;
+}
+
+.closeButton{
+    border:0px;
+    background-color: palevioletred;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px;
+transition: 0.5s;
+color:white;
+    
+}
+.closeButton:hover{
+    background-color: gray;
+    box-shadow: 10px 10px 5px 0px black;
+}

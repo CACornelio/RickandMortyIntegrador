@@ -1,0 +1,14 @@
+.searchInput{
+    border:0px;
+border-radius: 10px 0px 0px 10px;
+background-color:  lavender;
+}
+
+.searchButton{
+    border:0px;
+    border-radius:0px  15   px 15px 0px ;
+    background-color:  lavender;
+}
+.bar{
+    width:15%;
+}
